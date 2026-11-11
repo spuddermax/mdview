@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=Markdown Viewer
+GenericName=Markdown Viewer
+Comment=View Markdown files, rendered
+Exec=mdview %U
+Icon=mdview
+Terminal=false
+Categories=Utility;TextTools;
+MimeType=text/markdown;text/x-markdown;
+Keywords=markdown;md;readme;viewer;
+StartupNotify=true
+StartupWMClass=mdview
